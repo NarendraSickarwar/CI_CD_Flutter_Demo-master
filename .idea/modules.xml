@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CI_CD_Flutter_Demo.iml" filepath="$PROJECT_DIR$/.idea/CI_CD_Flutter_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GithubActionDemo.iml" filepath="$PROJECT_DIR$/.idea/GithubActionDemo.iml" />
     </modules>
   </component>
 </project>
